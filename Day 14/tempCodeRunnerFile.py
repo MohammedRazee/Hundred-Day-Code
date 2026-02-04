@@ -1,1 +1,0 @@
-input("Who has more followers? Type 'A' or 'B'").lower()
