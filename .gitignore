@@ -5,3 +5,7 @@
 # Ignore all VS Code settings folders
 .vscode/
 **/.vscode/
+
+# Ignore all pychache files
+__pycache__
+**/__pycache__/
