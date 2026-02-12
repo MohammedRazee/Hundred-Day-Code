@@ -9,4 +9,7 @@
 # Ignore all pychache files
 __pycache__/
 
+# Ignore all env files
+.env
+
 tempCodeRunnerFile.py
